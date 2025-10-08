@@ -1,13 +1,13 @@
 # 👋 Hi, I'm My!
 
-🎓 IT student at Keiser University Vietnam  
-💻 Aspiring web developer currently exploring frontend technologies  
-🌱 Learning by building hands-on projects and small practice apps
+🎓 IT graduate from Keiser University Vietnam  
+💻 Passionate about how technology and data work together to solve real-world problems  
+🌱 Learning through hands-on projects and continuous exploration
 
 ## 🔧 Tech Stack
-- **Languages:** HTML, CSS, JavaScript, Dart (basic)
-- **Frameworks:** Flutter (basic)
-- **Tools:** Git, GitHub, VS Code, Android Studio
+- **Languages:** Python, SQL, HTML, CSS, JavaScript, Dart (basic)
+- **Frameworks & Tools:** Flutter (basic), Git, GitHub, VS Code, Android Studio  
+- **Interests:** Data handling, data visualization, and user-centered application design
 
 ## 🚀 Featured Projects
 
